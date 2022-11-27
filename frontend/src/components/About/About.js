@@ -46,14 +46,14 @@ function About() {
                   textAlign: "justify",
                 }}
               >
-                There's nothing cookie-cutter about FoodHub. Neither our food
+                There's nothing cookie-cutter about FoodPoint. Neither our food
                 nor our people. Around here, we don't settle for anything less
-                than food we're proud to serve. At FoodHub, we don't just
+                than food we're proud to serve. At FoodPoint, we don't just
                 deliver food. We deliver delicious, mouth-watering and healthy
                 food with an intent of serving better.
                 <br />
                 <br />
-                FoodHub is the creation of four engineering graduates from one
+                FoodPoint is the creation of four engineering graduates from one
                 of the most prestigious engineering institutes in India. Our
                 motto is to be the best in the domain with our outstanding
                 service and love from our customers.

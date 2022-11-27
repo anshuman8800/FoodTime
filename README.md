@@ -1,4 +1,4 @@
-# FOOD-HUB
+# FOOD-POINT
 
 > Online Food Ordering system built using MERN stack.
 
@@ -52,6 +52,9 @@ npm install
 ```
 ```
 # Run backend (:7000)
-nodemon app
+
+sudo lsof -i :7000
+kill -9 processId
+npm run dev
 ```
 

@@ -40,7 +40,7 @@ const Footer = () => {
 
         <GitHubIcon
           onClick={() =>
-            window.open("https://github.com/swarajparth/FoodHub", "_blank")
+            window.open("https://github.com/anshuman8800/FoodTime", "_blank")
           }
           style={{
             cursor: "pointer",
